@@ -1,9 +1,9 @@
 # Hey 👋, I am George.
 
-I come from Athens, Greece 🇬🇷
-Living in Berlin, Germany 🇩🇪
-Work as a React Native engineer. <img src="./icons8-react-native-64.png" height="15" width="15">
-Love music and enjoy playing the guitar 🎸
+- I come from Athens, Greece 🇬🇷
+- Living in Berlin, Germany 🇩🇪
+- Work as a React Native engineer. <img src="./assets/icons8-react-native-64.png" height="15" width="15">
+- Love music and enjoy playing the guitar 🎸
 
 In my free time I enjoy working on projects that have social impact and learning new things.
 
