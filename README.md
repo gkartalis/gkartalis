@@ -13,7 +13,7 @@ In my free time I enjoy working on projects that have social impact and learning
 #### Languages and tools:
 
 <img src="./icons8-react-native-64.png" height="45" width="45">
-<img src="./assets/icons8-javascript-48.png" height="45" width="45">
+<img src="https://img.icons8.com/color/48/000000/javascript.png" height="45" width="45"/>
 <img src="./assets/icons8-react-100.png" height="50" width="50">
 <img src="./assets/icons8-graphql-48.png"  height="45" width="45">
 <img src="./assets/icons8-redux-48.png" height="45" width="45">
